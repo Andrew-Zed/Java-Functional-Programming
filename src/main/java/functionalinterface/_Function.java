@@ -48,4 +48,6 @@ public class _Function {
         return (number + 1) * numToMultiplyBy;
     }
 
+
+
 }
