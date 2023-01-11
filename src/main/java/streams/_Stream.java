@@ -1,6 +1,9 @@
 package streams;
 
 import java.util.List;
+import java.util.function.Function;
+import java.util.function.IntConsumer;
+import java.util.function.ToIntFunction;
 import java.util.stream.Collectors;
 
 import static streams._Stream.Gender.*;
